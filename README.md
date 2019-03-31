@@ -1,2 +1,2 @@
-# chinmayp.github.io
+# chinmay2911.github.io
 Personal Website.
